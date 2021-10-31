@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log(["rjy","boston","hyd","ohio"])})();
